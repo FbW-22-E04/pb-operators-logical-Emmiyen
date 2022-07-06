@@ -2,7 +2,7 @@
 
 Diese Übungen sollen dich mit den logischen Operatoren vertraut machen. **Drucke alle deine Überprüfungen auf der Konsole aus. Achte darauf, dass du den *richtigen* logischen Operator verwendest.**
 
-0. Deklariere zwei Variablen: `isDogBetter` mit dem Wert `true` und `isCatBetter` mit dem Wert `false`.
+0. Deklariere zwei Variablen: `isDogBetter` mit dem Wert `true` und `isCatBettconster` mit dem Wert `false`.
 
 1. Überprüfe das Ergebnis von:
 
